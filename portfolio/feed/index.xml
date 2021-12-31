@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Portfolio</title>
-	<atom:link href="http://grunlock.com/portfolio/feed/" rel="self" type="application/rss+xml" />
-	<link>http://grunlock.com/portfolio</link>
+	<atom:link href="https://grunlock.com/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grunlock.com/portfolio</link>
 	<description>Grunlock</description>
 	<lastBuildDate>Tue, 28 Dec 2021 22:01:59 +0000</lastBuildDate>
 	<language>en-NZ</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>http://grunlock.com/portfolio/wp-content/uploads/2021/12/sun-large-crop-150x150.png</url>
+	<url>https://grunlock.com/portfolio/wp-content/uploads/2021/12/sun-large-crop-150x150.png</url>
 	<title>Portfolio</title>
-	<link>http://grunlock.com/portfolio</link>
+	<link>https://grunlock.com/portfolio</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>http://grunlock.com/portfolio/2021/12/28/hello-world/</link>
-					<comments>http://grunlock.com/portfolio/2021/12/28/hello-world/#comments</comments>
+		<link>https://grunlock.com/portfolio/2021/12/28/hello-world/</link>
+					<comments>https://grunlock.com/portfolio/2021/12/28/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Grunlock]]></dc:creator>
 		<pubDate>Tue, 28 Dec 2021 22:01:59 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">http://grunlock.com/portfolio/?p=1</guid>
+		<guid isPermaLink="false">https://grunlock.com/portfolio/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://grunlock.com/portfolio/2021/12/28/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://grunlock.com/portfolio/2021/12/28/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
